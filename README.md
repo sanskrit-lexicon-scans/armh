@@ -1,4 +1,4 @@
-## sanskrit-lexicon-scans/yat
+## sanskrit-lexicon-scans/armh
 
 This repository contains images for the dictionary *Abhidhānaratnamālā of Halāyudha*.
 
